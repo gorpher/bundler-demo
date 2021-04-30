@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "dev": "webpack serve --open",
+    "webpack": "webpack",
+    "watch": "webpack --watch"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^5.3.1",
+    "webpack": "^5.36.1",
+    "webpack-cli": "^4.6.0",
+    "webpack-dev-server": "^3.11.2",
+    "worker-loader": "^3.0.8"
+  },
+  "license": "MIT"
+}

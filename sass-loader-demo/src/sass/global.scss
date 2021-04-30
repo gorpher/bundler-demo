@@ -1,0 +1,11 @@
+$button-color: rgb(41, 197, 49);
+$btn-p1: 13px;
+button {
+  background-color: $button-color;
+  border: none;
+  padding: $btn-p1;
+  color: white;
+}
+body{
+  background-color: antiquewhite;
+}

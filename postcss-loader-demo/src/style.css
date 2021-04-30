@@ -1,0 +1,14 @@
+button {
+    padding:13px;
+    background-color: rgb(74, 185, 46);
+    color: white;
+    border:none;
+}
+
+body{
+    background-color:wheat;
+}
+
+#div {
+    background-color: violet;
+}
