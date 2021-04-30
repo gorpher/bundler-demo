@@ -40,5 +40,5 @@ css-loader-demo/dist/
 postcss-loader-demo/dist/
 sass-loader-demo/dist/
 worker-loader-demo/dist/
-
+tailwindcss-demo/dist
 yarn.lock
