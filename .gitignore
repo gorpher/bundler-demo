@@ -33,6 +33,8 @@ css-loader-demo/node_modules/
 postcss-loader-demo/node_modules/
 sass-loader-demo/node_modules/
 worker-loader-demo/node_modules/
+tailwindcss-demo/node_modules/
+
 
 css-loader-demo/dist/
 postcss-loader-demo/dist/
