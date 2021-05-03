@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "build": "rollup -c",
+    "watch": "rollup -w -c"
+  },
+  "devDependencies": {
+    "@rollup/plugin-html": "^0.2.3",
+    "@rollup/plugin-image": "^2.0.6"
+  },
+  "license": "MIT"
+}

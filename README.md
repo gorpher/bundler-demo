@@ -1,3 +1,7 @@
-weback 加载器的一些例子
+使用模块打包器的一些例子
 
-[参考文档](https://webpack.docschina.org/loaders/)
+[webpack-loader参考文档](https://webpack.docschina.org/loaders/)
+
+
+[rollup参考文档](https://www.rollupjs.com/)
+
