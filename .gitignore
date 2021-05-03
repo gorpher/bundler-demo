@@ -35,7 +35,7 @@ sass-loader-demo/node_modules/
 worker-loader-demo/node_modules/
 tailwindcss-demo/node_modules/
 rollup-demo/node_modules/
-
+esbuild-demo/node_modules/
 
 css-loader-demo/dist/
 postcss-loader-demo/dist/
@@ -43,4 +43,5 @@ sass-loader-demo/dist/
 worker-loader-demo/dist/
 tailwindcss-demo/dist/
 rollup-demo/dist/
+esbuild-demo/dist/
 yarn.lock
