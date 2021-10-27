@@ -11,5 +11,12 @@
     "@sveltejs/vite-plugin-svelte": "^1.0.0-next.11",
     "svelte": "^3.37.0",
     "vite": "^2.6.4"
+  },
+  "dependencies": {
+    "@sveltejs/site-kit": "^1.4.0",
+    "@sveltejs/svelte-repl": "^0.3.0",
+    "codemirror": "^5.63.3",
+    "prism-svelte": "^0.4.7",
+    "prismjs": "^1.25.0"
   }
 }
